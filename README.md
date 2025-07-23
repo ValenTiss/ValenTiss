@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm ValenTiss</h1>
+<h1 align="left">Hi 👋, I'm Valentin Tissera</h1>
 <h3 align="left">CS student with practical experience in Java, Python, and C++, focused on algorithmic problem solving, performance optimization, and collaborative software development.</h3>
 
 - 🔭 I’m currently working on **AI soccer Predictions**
